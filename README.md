@@ -15,4 +15,4 @@
 ## 三、实验过程
 建立GUI类，在GUI类中创建一个容器，定义出文本框、标签、复选框、按钮等，并搭建出大体的框架，之后通过调用第一次实验的程序使这个GUI界面实现学生选课系统。再引用io包实现文件的打开、读取及写入。
 ## 四、实验流程图
-！[image](https://github.com/Mr-Zhao125/GUI/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE5.png)
+！[text](https://github.com/Mr-Zhao125/GUI/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE5.png)
