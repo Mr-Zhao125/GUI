@@ -23,7 +23,7 @@
 ![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%865.png);
 ## 六、运行截图
 ### 1、学生信息
-![text]();
+![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF.png);
 ### 2、开课
 ![text]();
 ### 3、结果
