@@ -25,6 +25,6 @@
 ### 1、学生信息
 ![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF.png);
 ### 2、开课
-![text]();
+![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%BC%80%E8%AF%BE.png);
 ### 3、结果
 ![text]();
