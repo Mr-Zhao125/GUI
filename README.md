@@ -17,3 +17,7 @@
 ## 四、实验流程图
 ![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE5.png);
 ## 五、核心代码
+### 1、写入文件
+![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.png);
+### 2、异常处理
+![text]();
