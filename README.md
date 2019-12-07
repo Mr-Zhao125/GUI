@@ -20,4 +20,11 @@
 ### 1、写入文件
 ![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.png);
 ### 2、异常处理
+![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%865.png);
+## 六、运行截图
+### 1、学生信息
+![text]();
+### 2、开课
+![text]();
+### 3、结果
 ![text]();
