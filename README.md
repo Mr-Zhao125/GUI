@@ -27,4 +27,7 @@
 ### 2、开课
 ![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E5%BC%80%E8%AF%BE.png);
 ### 3、结果
-![text]();
+![text](https://github.com/Mr-Zhao125/GUI/blob/master/%E7%BB%93%E6%9E%9C.png);
+## 七、编程感想
+通过这次实验我进一步学习了GUI编程，让我对GUI编程有了更深一步的了解，对窗体的设计布局掌握的更熟练，同时我还学会了文件的一些基础的打开，读取以及写入等操作，在这个过程中我还学会了如何编写异常处理是程序更加稳定。
+
